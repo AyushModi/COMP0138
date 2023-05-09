@@ -1,0 +1,36 @@
+{
+	"data": [
+		{
+			"title": "Prime_minister",
+			"paragraphs": [
+				{
+					"context": "A prime minister is the most senior minister of cabinet in the executive branch of government, often in a parliamentary or semi-presidential system. In many systems, the prime minister selects and may dismiss other members of the cabinet, and allocates posts to members within the government. In most systems, the prime minister is the presiding member and chairman of the cabinet. In a minority of systems, notably in semi-presidential systems of government, a prime minister is the official who is appointed to manage the civil service and execute the directives of the head of state.",
+					"cid": 200000,
+					"qas": [
+						{
+							"id": 100000,
+							"question": "What branch of government does the prime minister lead?",
+							"answers": [
+								{
+									"answer_start": 63,
+									"text": "executive"
+								}
+							]
+						},
+						{
+							"id": 100001,
+							"question": "What group is the prime minister usually in charge of?",
+							"answers": [
+								{
+									"answer_start": 48,
+									"text": "cabinet"
+								}
+							]
+						}
+					]
+				}
+			]
+	}
+	]
+}
+						
